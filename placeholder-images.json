@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "app-logo",
+      "description": "Premium AuraTime Logo - Neon Clock & Calculator Hybrid",
+      "imageUrl": "https://picsum.photos/seed/auratime-neon-v3/600/600",
+      "imageHint": "neon clock calculator blue"
+    }
+  ]
+}
